@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aka1602/aka1602/main/assets/banner.svg?v=6" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/aka1602/aka1602/main/assets/banner.svg?v=7" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
