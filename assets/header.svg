@@ -45,11 +45,6 @@
       50% { transform: translateX(-40px); }
       100% { transform: translateX(0); }
     }
-    @keyframes float {
-      0% { transform: translateY(0px); }
-      50% { transform: translateY(-5px); }
-      100% { transform: translateY(0px); }
-    }
     .wave-anim1 {
       animation: waveFlow 10s ease-in-out infinite;
     }
@@ -99,9 +94,9 @@
   <g transform="translate(60, 0)">
     <!-- Pill Badge -->
     <g transform="translate(0, 42)">
-      <rect width="210" height="26" rx="13" fill="#1e293b" stroke="#38bdf8" stroke-width="0.8" stroke-opacity="0.6" />
+      <rect width="220" height="26" rx="13" fill="#1e293b" stroke="#38bdf8" stroke-width="0.8" stroke-opacity="0.6" />
       <circle cx="14" cy="13" r="4" fill="#22c55e" />
-      <text x="26" y="17" class="badge">SDE 2 @ PLAY GAMES24x7</text>
+      <text x="26" y="17" class="badge">FRONTEND ENGINEER 2 @ SEQUOIA</text>
     </g>
 
     <!-- Main Title -->
@@ -111,7 +106,7 @@
 
     <!-- Subtitle -->
     <text x="0" y="152" class="subtitle">
-      Senior Frontend &amp; Full-Stack Engineer • 6+ Years Building Scalable High-Impact Systems
+      Frontend Engineer 2 @ Sequoia • 6+ Years Building Scalable High-Impact Systems
     </text>
   </g>
 </svg>
