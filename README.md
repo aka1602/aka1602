@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aka1602/aka1602/main/assets/header.svg" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/aka1602/aka1602/main/assets/banner.svg?v=2" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/aka1602">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Frontend+Engineer+2+%40+Sequoia;Ex-Play+Games24x7+%7C+Ex-InfoEdge+(AmbitionBox);React+%7C+React+Native+%7C+Next.js+%7C+TypeScript;Building+Scalable+High-Performance+Web+Apps;Optimizing+Core+Web+Vitals+%26+Micro-Frontends" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Frontend+Engineer+2+%40+Sequoia;React+%7C+React+Native+%7C+Next.js+%7C+TypeScript;Building+Scalable+Enterprise+Web+Ecosystems;Optimizing+Core+Web+Vitals+%26+Micro-Frontends;Architecting+High-Performance+User+Interfaces" alt="Typing SVG" />
   </a>
 </p>
 
@@ -35,12 +35,6 @@ const akash: SoftwareEngineer = {
   location: "Bengaluru, India 🇮🇳",
   experience: "6+ Years",
   currentCompany: "Sequoia",
-  previousExperience: [
-    "Play Games24x7 (SDE 2)",
-    "InfoEdge (Naukri.com / AmbitionBox - SSE)",
-    "Satin Creditcare",
-    "The Luxury Closet"
-  ],
   specialization: [
     "Micro Frontends & Architecture (HLD/LLD)",
     "High-Performance Mobile Apps (React Native)",
@@ -51,13 +45,13 @@ const akash: SoftwareEngineer = {
 };
 ```
 
-- 🔭 **Current Focus**: Building & scaling high-performance frontend systems and products at **Sequoia**.
-- 🚀 **Past Impact**: Scaled **AmbitionBox** from 3.5M → 4.7M users; reduced web load times by **40–50%** across enterprise platforms.
+- 🔭 **Current Focus**: Building and scaling high-performance frontend systems and products at **Sequoia**.
+- 🚀 **Track Record**: Scaled enterprise platforms from 3.5M → 4.7M users; reduced web load times by **40–50%** across high-traffic products.
 - 💬 **Ask me about**: React, React Native, Next.js, System Design, Micro Frontends, Performance Tuning.
 - ⚡ **Fun fact**: I debug with coffee and celebrate releases with chess & gaming ☕♟️.
 
 <details>
-  <summary><b>💼 Click to view Complete Career Journey & Milestones</b></summary>
+  <summary><b>💼 Click to view Career Journey & Milestones</b></summary>
   <br/>
 
 - 🌲 **Sequoia (Frontend Engineer 2)** *(Sep 2025 – Present)*
