@@ -93,9 +93,9 @@
 
   <!-- Content Group -->
   <g transform="translate(60, 0)">
-    <!-- Extra Spacious Pill Badge (width=290px) -->
+    <!-- Extra Spacious Pill Badge (width=305px) -->
     <g transform="translate(0, 38)">
-      <rect width="290" height="28" rx="14" fill="#1e293b" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.6" />
+      <rect width="305" height="28" rx="14" fill="#1e293b" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.6" />
       <circle cx="16" cy="14" r="4.5" fill="#22c55e" />
       <text x="30" y="18" class="badge">FRONTEND ENGINEER 2 @ SEQUOIA</text>
     </g>
