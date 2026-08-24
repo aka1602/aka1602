@@ -1,16 +1,13 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,9,20,24,30&height=200&section=header&text=Hey%20there,%20I'm%20Akash%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Senior%20Frontend%20%26%20Full-Stack%20Engineer%20%E2%80%A2%20SDE%202%20@%20Play%20Games24x7&descSize=17&descAlignY=68&descAlign=50" width="100%" alt="Header Banner" />
+</p>
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,9,20,24,30&height=220&section=header&text=Hey%20there,%20I'm%20Akash%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Senior%20Frontend%20%26%20Full-Stack%20Engineer%20•%20SDE%202%20@%20Play%20Games24x7&descSize=18&descAlignY=68&descAlign=50" width="100%" alt="Header Banner" />
+<p align="center">
+  <a href="https://github.com/aka1602">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Senior+Frontend+%26+Full-Stack+Engineer;SDE+2+%40+Play+Games24x7;Ex-InfoEdge+(Naukri.com+%2F+AmbitionBox);Building+Scalable+High-Performance+Web+Apps;Specialized+in+React%2C+React+Native%2C+Next.js%2C+TypeScript" alt="Typing SVG" />
+  </a>
+</p>
 
-<!-- Animated Typing SVG -->
-<a href="https://github.com/aka1602">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Building+Scalable+High-Performance+Apps;SDE+2+%40+Play+Games24x7;Ex-InfoEdge+(Naukri.com+%2F+AmbitionBox);React+%7C+React+Native+%7C+Next.js+%7C+TypeScript;Optimizing+Core+Web+Vitals+%26+Micro-Frontends" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Status Badges & Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/akash-a45aab120/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://akash-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
@@ -19,74 +16,40 @@
   <img src="https://img.shields.io/badge/Status-Open_to_Collaborations-00C853?style=for-the-badge" alt="Status"/>
 </p>
 
-</div>
-
----
-
-### 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aka1602&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ### 🎮 Contribution Snake Game
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aka1602/aka1602/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aka1602/aka1602/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/aka1602/aka1602/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aka1602/aka1602/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
 
 ---
 
-### 👨‍💻 About Me & Architecture Philosophy
-
-<table>
-  <tr>
-    <td width="55%" valign="top">
+### 👨‍💻 About Me
 
 ```typescript
-interface Engineer {
-  name: string;
-  role: string;
-  location: string;
-  experience: string;
-  company: string;
-  specialization: string[];
-  motto: string;
-}
-
-const akash: Engineer = {
+const akash: SoftwareEngineer = {
   name: "Akash Gupta",
   role: "Senior Frontend / Full-Stack Engineer",
   location: "Bengaluru, India 🇮🇳",
   experience: "6+ Years",
-  company: "Play Games24x7 (SDE 2)",
+  currentCompany: "Play Games24x7 (SDE 2)",
+  previousExperience: ["InfoEdge (Naukri.com / AmbitionBox)", "Satin Creditcare", "The Luxury Closet"],
   specialization: [
     "Micro Frontends & Architecture (HLD/LLD)",
     "High-Performance Mobile Apps (React Native)",
     "Core Web Vitals & 50% Load Time Optimization",
     "Scalable Web Ecosystems (Next.js / TypeScript)"
   ],
-  motto: "Obsessed with clean architecture and lightning-fast UX."
+  motto: "Obsessed with clean architecture and lightning-fast user experiences."
 };
 ```
 
 - 🔭 **Current Focus**: Scaling micro-frontends and high-framerate mobile features at **Play Games24x7**.
-- 🚀 **Past Impact**: Scaled **AmbitionBox** from 3.5M → 4.7M users; reduced web load times by **40–50%** across enterprise products.
+- 🚀 **Past Impact**: Scaled **AmbitionBox** from 3.5M → 4.7M users; reduced web load times by **40–50%** across enterprise platforms.
 - 💬 **Ask me about**: React, React Native, Next.js, System Design, Micro Frontends, Performance Tuning.
 - ⚡ **Fun fact**: I debug with coffee and celebrate releases with chess & gaming ☕♟️.
-
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" style="border-radius: 12px;" />
-    </td>
-  </tr>
-</table>
 
 <details>
   <summary><b>💼 Click to view Career Journey & Milestones</b></summary>
@@ -116,21 +79,25 @@ const akash: Engineer = {
 
 ### 🛠️ Tech Arsenal & Tooling
 
-<div align="center">
+<p align="center">
+  <b>Languages & Core</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass&theme=dark" alt="Languages" />
+</p>
 
-#### **Languages & Core**
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,sass&theme=dark" alt="Languages" />
+<p align="center">
+  <b>Frontend & Mobile Frameworks</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,styledcomponents&theme=dark" alt="Frontend & Mobile" />
+</p>
 
-#### **Frontend & Mobile Frameworks**
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,styledcomponents&theme=dark" alt="Frontend & Mobile" />
+<p align="center">
+  <b>Backend, APIs & Databases</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,postgres,redis,supabase&theme=dark" alt="Backend & Databases" />
+</p>
 
-#### **Backend, APIs & Databases**
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,postgres,redis,supabase&theme=dark" alt="Backend & Databases" />
-
-#### **DevOps, Testing, Cloud & Tools**
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,githubactions,webpack,vite,jest,cypress,figma&theme=dark" alt="DevOps & Tools" />
-
-</div>
+<p align="center">
+  <b>DevOps, Testing, Cloud & Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,githubactions,webpack,vite,jest,cypress,figma&theme=dark" alt="DevOps & Tools" />
+</p>
 
 ---
 
@@ -142,33 +109,24 @@ const akash: Engineer = {
 | [**openchat**](https://github.com/aka1602/openchat) | Real-time web communication platform designed for instant and responsive chat experiences. | `React` `JavaScript` `Node.js` `Socket.io` | [💻 Source](https://github.com/aka1602/openchat) |
 | [**cloud-monitor**](https://github.com/aka1602/cloud-monitor) | Cloud infrastructure metrics dashboard for tracking real-time server health and telemetry. | `TypeScript` `React` `Chart.js` `Tailwind` | [💻 Source](https://github.com/aka1602/cloud-monitor) |
 | [**ExpenseTracker**](https://github.com/aka1602/ExpenseTracker) | Smart finance management dashboard with interactive analytics and budget categorization. | `TypeScript` `React` `Redux` `Tailwind` | [💻 Source](https://github.com/aka1602/ExpenseTracker) |
-| [**ats-dashboard**](https://github.com/aka1602/ats-dashboard) | Applicant Tracking System dashboard for streamlined candidate pipelines and hiring management. | `TypeScript` `Next.js` `Tailwind` | [💻 Source](https://github.com/aka1602/ats-dashboard) |
+| [**ats-dashboard**](https://github.com/aka1602/ats-dashboard) | Applicant Tracking System dashboard for candidate pipeline workflows and recruitment tracking. | `TypeScript` `Next.js` `Tailwind` | [💻 Source](https://github.com/aka1602/ats-dashboard) |
 
 ---
 
-### 📊 GitHub Analytics & Real-Time Stats
+### 📊 GitHub Analytics & Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aka1602&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="Akash's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aka1602&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aka1602&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="Akash's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka1602&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aka1602&theme=tokyonight&hide_border=true" width="95%" alt="Akash's GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aka1602&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aka1602&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Activity Graph" />
+</p>
 
 ---
 
-### 💬 Daily Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Dev Quote" />
-  <br/><br/>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Dev Quote" /><br/><br/>
   <img src="https://komarev.com/ghpvc/?username=aka1602&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</div>
+</p>
