@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aka1602/aka1602/main/assets/banner.svg?v=2" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/aka1602/aka1602/main/assets/banner.svg?v=3" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/aka1602">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Frontend+Engineer+2+%40+Sequoia;React+%7C+React+Native+%7C+Next.js+%7C+TypeScript;Building+Scalable+Enterprise+Web+Ecosystems;Optimizing+Core+Web+Vitals+%26+Micro-Frontends;Architecting+High-Performance+User+Interfaces" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Engineer+2+%40+Sequoia;React+%7C+React+Native+%7C+Next.js+%7C+TypeScript;Building+Scalable+Enterprise+Web+Ecosystems;Optimizing+Core+Web+Vitals+%26+Micro-Frontends;Architecting+High-Performance+User+Interfaces" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,7 +18,15 @@
 
 ---
 
-### 🎮 Contribution Snake Game
+### 🏙️ 3D Contribution Skyline
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aka1602/aka1602/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Skyline" width="100%" />
+</p>
+
+---
+
+### 🎮 Contribution Snake Arcade
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aka1602/aka1602/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
@@ -26,18 +34,28 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Engineering Blueprint & About Me
 
 ```typescript
-const akash: SoftwareEngineer = {
+interface Engineer {
+  name: string;
+  role: string;
+  location: string;
+  experience: string;
+  currentCompany: string;
+  specialization: string[];
+  motto: string;
+}
+
+const akash: Engineer = {
   name: "Akash Gupta",
   role: "Frontend Engineer 2",
   location: "Bengaluru, India 🇮🇳",
   experience: "6+ Years",
   currentCompany: "Sequoia",
   specialization: [
-    "Micro Frontends & Architecture (HLD/LLD)",
-    "High-Performance Mobile Apps (React Native)",
+    "Micro Frontends & Large-Scale Architecture (HLD/LLD)",
+    "High-Performance Mobile Applications (React Native)",
     "Core Web Vitals & 50% Load Time Optimization",
     "Scalable Enterprise Web Ecosystems (Next.js / TypeScript)"
   ],
@@ -45,13 +63,13 @@ const akash: SoftwareEngineer = {
 };
 ```
 
-- 🔭 **Current Focus**: Building and scaling high-performance frontend systems and products at **Sequoia**.
+- 🔭 **Current Focus**: Building and scaling high-performance frontend systems and enterprise products at **Sequoia**.
 - 🚀 **Track Record**: Scaled enterprise platforms from 3.5M → 4.7M users; reduced web load times by **40–50%** across high-traffic products.
 - 💬 **Ask me about**: React, React Native, Next.js, System Design, Micro Frontends, Performance Tuning.
 - ⚡ **Fun fact**: I debug with coffee and celebrate releases with chess & gaming ☕♟️.
 
 <details>
-  <summary><b>💼 Click to view Career Journey & Milestones</b></summary>
+  <summary><b>💼 Click to view Complete Career Journey & Milestones</b></summary>
   <br/>
 
 - 🌲 **Sequoia (Frontend Engineer 2)** *(Sep 2025 – Present)*
@@ -115,7 +133,7 @@ const akash: SoftwareEngineer = {
 
 ---
 
-### 📊 GitHub Analytics & Activity
+### 📊 GitHub Analytics & Activity Curves
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=aka1602&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="Akash's GitHub Stats" />
