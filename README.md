@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,9,20,24,30&height=200&section=header&text=Hey%20there,%20I'm%20Akash%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Senior%20Frontend%20%26%20Full-Stack%20Engineer%20%E2%80%A2%20SDE%202%20@%20Play%20Games24x7&descSize=17&descAlignY=68&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/aka1602/aka1602/main/assets/header.svg" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
