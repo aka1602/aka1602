@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aka1602/aka1602/main/assets/banner.svg?v=4" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/aka1602/aka1602/main/assets/banner.svg?v=5" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/aka1602">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Engineer+2+%40+Sequoia;React+%7C+React+Native+%7C+Next.js+%7C+TypeScript;Building+Scalable+Enterprise+Web+Ecosystems;Optimizing+Core+Web+Vitals+%26+Micro-Frontends;Architecting+High-Performance+User+Interfaces" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=715&lines=Frontend+Engineer+2+%40+Sequoia;React+%7C+React+Native+%7C+Next.js+%7C+TypeScript;Building+Scalable+Enterprise+Web+Ecosystems;Optimizing+Core+Web+Vitals+%26+Micro-Frontends;Architecting+High-Performance+User+Interfaces" alt="Typing SVG" />
   </a>
 </p>
 
